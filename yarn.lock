@@ -25,10 +25,10 @@
   dependencies:
     regenerator-runtime "^0.13.2"
 
-"@nebulario/microservice-account-graph@1.70.0-account-service-prod":
-  version "1.70.0-account-service-prod"
-  resolved "https://registry.yarnpkg.com/@nebulario/microservice-account-graph/-/microservice-account-graph-1.70.0-account-service-prod.tgz#745c45ac528c1179a90bda27ef7ad170062d10ea"
-  integrity sha512-YqEJ8GXGaXdejHa3fn6d9YnaenQ3y4EtaM0HzUSBHe5HJbVyNhKyOAOJDn8QudGj8ccpSYhTQTJg0KML6y7s2Q==
+"@nebulario/microservice-account-graph@1.70.0-master":
+  version "1.70.0-master"
+  resolved "https://registry.yarnpkg.com/@nebulario/microservice-account-graph/-/microservice-account-graph-1.70.0-master.tgz#86a45cac4085d9019f1806b6bbcdfcec68cfa9cc"
+  integrity sha512-V9T1tLFdxN7HnXWVk7a2VujFGzwiKX83fcC/UTODA/I26qrt6fKb9UUZU3fpF8fhfLTNwXP1NJw1BQq6cD3L0Q==
   dependencies:
     "@babel/runtime" "^7.6.0"
     "@babel/runtime-corejs3" "^7.6.0"
