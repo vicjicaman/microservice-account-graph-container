@@ -1,0 +1,8 @@
+{
+  "name": "container",
+  "description": "",
+  "license": "MIT",
+  "dependencies": {
+    "@nebulario/microservice-account-graph": "1.70.0-master"
+  }
+}
