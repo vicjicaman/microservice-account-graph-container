@@ -25,9 +25,22 @@
   dependencies:
     regenerator-runtime "^0.13.2"
 
-"@nebulario/microservice-account-graph@link:../microservice-account-graph":
-  version "0.0.0"
-  uid ""
+"@nebulario/microservice-account-graph@1.70.0-reconnect-data-prod":
+  version "1.70.0-reconnect-data-prod"
+  resolved "https://registry.yarnpkg.com/@nebulario/microservice-account-graph/-/microservice-account-graph-1.70.0-reconnect-data-prod.tgz#c54678d537f488ffcf630b99a441902b06c324cc"
+  integrity sha512-kCJSX6s9DyzLG683aDlN4PtmeSsr2A17TJZoMyJDJ1x1rCW6YSnCvLu7QAhRKVNaVdJpP4zPv1UzSKJvL2NrJA==
+  dependencies:
+    "@babel/runtime" "^7.6.0"
+    "@babel/runtime-corejs3" "^7.6.0"
+    bcryptjs "^2.4.3"
+    dotenv "^7.0.0"
+    express "^4.16.4"
+    express-graphql "^0.7.1"
+    graphql "^14.2.0"
+    graphql-iso-date "^3.6.1"
+    graphql-tools "^4.0.4"
+    graphql-tools-types "^1.2.1"
+    mongoose "^5.6.12"
 
 "@wry/equality@^0.1.2":
   version "0.1.9"
