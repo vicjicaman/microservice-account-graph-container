@@ -25,13 +25,33 @@
   dependencies:
     regenerator-runtime "^0.13.2"
 
-"@nebulario/microservice-account-graph@link:../microservice-account-graph":
-  version "0.0.0"
-  uid ""
+"@nebulario/microservice-account-graph@1.70.0-data-reconnect-realm-prod":
+  version "1.70.0-data-reconnect-realm-prod"
+  resolved "https://registry.yarnpkg.com/@nebulario/microservice-account-graph/-/microservice-account-graph-1.70.0-data-reconnect-realm-prod.tgz#eb699b77e53f58a76bae34610a9874dc45ce4558"
+  integrity sha512-dnQnk75jbfsIQ32x4uAjM1mUbDTys31qj6rMVEhg8iA+9jZMN6dc4hpXg5pxBiUQgwDeXUuHpSVR2iybv5CvaA==
+  dependencies:
+    "@babel/runtime" "^7.6.0"
+    "@babel/runtime-corejs3" "^7.6.0"
+    "@nebulario/microservice-graph-common" "1.70.0-data-reconnect-realm-prod"
+    "@nebulario/microservice-utils" "1.70.0-master"
+    bcryptjs "^2.4.3"
+    dotenv "^7.0.0"
+    express "^4.16.4"
+    express-graphql "^0.7.1"
+    graphql "^14.2.0"
+    graphql-iso-date "^3.6.1"
+    graphql-tools "^4.0.4"
+    graphql-tools-types "^1.2.1"
+    mongoose "^5.6.12"
 
-"@nebulario/microservice-graph-common@link:../microservice-graph-common":
-  version "0.0.0"
-  uid ""
+"@nebulario/microservice-graph-common@1.70.0-data-reconnect-realm-prod":
+  version "1.70.0-data-reconnect-realm-prod"
+  resolved "https://registry.yarnpkg.com/@nebulario/microservice-graph-common/-/microservice-graph-common-1.70.0-data-reconnect-realm-prod.tgz#122393887d20246f7f2de06cf01800449ba9159b"
+  integrity sha512-XlZZFWFm+pWHDb0wx7NT8+5jJhzjAvpzuoKtKBgKfhEfXN//2/aHqdiQPu9jAZ6G1mSSkhf0JyQ7AfQSzGuBYw==
+  dependencies:
+    "@babel/runtime" "^7.6.0"
+    "@babel/runtime-corejs3" "^7.6.0"
+    "@nebulario/microservice-utils" "1.70.0-master"
 
 "@nebulario/microservice-utils@1.70.0-master":
   version "1.70.0-master"
