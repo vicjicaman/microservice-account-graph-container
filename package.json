@@ -3,6 +3,6 @@
   "description": "",
   "license": "MIT",
   "dependencies": {
-    "@nebulario/microservice-account-graph": "1.70.0-rm-cache-vol-prod"
+    "@nebulario/microservice-account-graph": "1.70.5-master"
   }
 }
