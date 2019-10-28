@@ -25,36 +25,13 @@
   dependencies:
     regenerator-runtime "^0.13.2"
 
-"@nebulario/microservice-account-graph@1.70.5-master":
-  version "1.70.5-master"
-  resolved "https://registry.yarnpkg.com/@nebulario/microservice-account-graph/-/microservice-account-graph-1.70.5-master.tgz#a9bb1541c536ed317a340f526f9d49f2f6b26ba0"
-  integrity sha512-2fuSXD+ZVCqzswILhS3lJ9Tg7cNmd45FoQUUmyqVcwJRFeweelOEjNj5eydRVVfUEBJSM35qgseF0BjNH+0Qtw==
-  dependencies:
-    "@babel/runtime" "^7.6.0"
-    "@babel/runtime-corejs3" "^7.6.0"
-    "@nebulario/microservice-graph-common" "1.70.2-master"
-    "@nebulario/microservice-utils" "1.70.0-master"
-    bcryptjs "^2.4.3"
-    dotenv "^7.0.0"
-    express "^4.16.4"
-    express-graphql "^0.7.1"
-    graphql "^14.2.0"
-    graphql-iso-date "^3.6.1"
-    graphql-tools "^4.0.4"
-    graphql-tools-types "^1.2.1"
-    mongoose "^5.6.12"
+"@nebulario/microservice-account-graph@link:../microservice-account-graph":
+  version "0.0.0"
+  uid ""
 
-"@nebulario/microservice-graph-common@1.70.2-master":
-  version "1.70.2-master"
-  resolved "https://registry.yarnpkg.com/@nebulario/microservice-graph-common/-/microservice-graph-common-1.70.2-master.tgz#02dba482046303c28496c071f14c034a20c9d7b1"
-  integrity sha512-xFsn8czX7yATTghNzPZ9Ri0XlGjtHMJYzdvwy7Gi7+4qJCopFY8qrC7L7kKxR4DPJY0nmF5N21EGlKvPoblBTg==
-  dependencies:
-    "@babel/runtime" "^7.6.0"
-    "@babel/runtime-corejs3" "^7.6.0"
-    "@nebulario/microservice-utils" "1.70.0-master"
-    amqplib "^0.5.5"
-    async-redis "^1.1.7"
-    uuid "^3.3.3"
+"@nebulario/microservice-graph-common@link:../microservice-graph-common":
+  version "0.0.0"
+  uid ""
 
 "@nebulario/microservice-utils@1.70.0-master":
   version "1.70.0-master"

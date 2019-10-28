@@ -3,6 +3,6 @@
   "description": "",
   "license": "MIT",
   "dependencies": {
-    "@nebulario/microservice-account-graph": "1.70.5-master"
+    "@nebulario/microservice-account-graph": "link:./../microservice-account-graph"
   }
 }
