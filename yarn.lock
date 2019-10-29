@@ -25,14 +25,14 @@
   dependencies:
     regenerator-runtime "^0.13.2"
 
-"@nebulario/microservice-account-graph@1.70.0-blog-comments-prod":
-  version "1.70.0-blog-comments-prod"
-  resolved "https://registry.yarnpkg.com/@nebulario/microservice-account-graph/-/microservice-account-graph-1.70.0-blog-comments-prod.tgz#bd99ac11e02a234ee2d7f378533f8fd67d9aa71b"
-  integrity sha512-DgyiAs6sPdkVTXpIZ26lQiiUBmFrgT7LJRbevkYuY+dgnA1IJlfeKj4rVBgXKacD3R/I9W2m3zr5ERviivAIjA==
+"@nebulario/microservice-account-graph@1.70.6-master":
+  version "1.70.6-master"
+  resolved "https://registry.yarnpkg.com/@nebulario/microservice-account-graph/-/microservice-account-graph-1.70.6-master.tgz#f89dc749cad4a0393840f7cf443ea8342b2b3057"
+  integrity sha512-8s6mGt0dSXZUdnK5WnsN1BEJhxyf9M5e1RbWPbj1EBKZzK2f65QakJXGig70REyOD3551WMTOjx+KArCyJOUpQ==
   dependencies:
     "@babel/runtime" "^7.6.0"
     "@babel/runtime-corejs3" "^7.6.0"
-    "@nebulario/microservice-graph-common" "1.70.0-blog-comments-prod"
+    "@nebulario/microservice-graph-common" "1.70.3-master"
     "@nebulario/microservice-logger" "1.70.0-master"
     "@nebulario/microservice-utils" "1.70.0-master"
     bcryptjs "^2.4.3"
@@ -45,10 +45,10 @@
     graphql-tools-types "^1.2.1"
     mongoose "^5.6.12"
 
-"@nebulario/microservice-graph-common@1.70.0-blog-comments-prod":
-  version "1.70.0-blog-comments-prod"
-  resolved "https://registry.yarnpkg.com/@nebulario/microservice-graph-common/-/microservice-graph-common-1.70.0-blog-comments-prod.tgz#53688f81457005c5a49a2bb8f7cd24b6cbab22e9"
-  integrity sha512-jbYZE5Sfs5kRGSC76kU+9x6QAtPnHLEuuzGm4+R1xMg1x7hV8dHLFiY39plWs2hx9ayoBOAyMexWYHb1wCwE2w==
+"@nebulario/microservice-graph-common@1.70.3-master":
+  version "1.70.3-master"
+  resolved "https://registry.yarnpkg.com/@nebulario/microservice-graph-common/-/microservice-graph-common-1.70.3-master.tgz#81a94c312254215e8d83a4fea4de54373694a324"
+  integrity sha512-PfQ0GCgFXhSCacAFeSkKvX0Qjb2zvilt6G7ei6HrW5/jwCXvFOtHNuwHopz11VjCXwNintP27qRm1zwjsfN0Bg==
   dependencies:
     "@babel/runtime" "^7.6.0"
     "@babel/runtime-corejs3" "^7.6.0"
