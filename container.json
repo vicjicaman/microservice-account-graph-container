@@ -1,4 +1,9 @@
 {
   "name": "repoflow/microservice-account-graph-container",
-  "version": "1.70.6-master"
+  "version": "1.70.7-master",
+  "source": {
+    "type": "npm",
+    "fullname": "@nebulario/microservice-account-graph",
+    "version": "1.70.6-master"
+  }
 }
