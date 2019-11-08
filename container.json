@@ -1,6 +1,6 @@
 {
   "name": "repoflow/microservice-account-graph-container",
-  "version": "1.70.0-blog-auth-container-update-v1-prod",
+  "version": "1.70.7-master",
   "source": {
     "type": "npm",
     "fullname": "@nebulario/microservice-account-graph",
