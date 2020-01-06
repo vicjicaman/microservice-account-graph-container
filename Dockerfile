@@ -4,8 +4,8 @@ ENV ENV_ROOT=/env
 RUN mkdir ${ENV_ROOT}
 RUN chown node ${ENV_ROOT}
 
-ENV CONTAINER=microservice-auth-accounts-graph-container
-ENV SOURCE=microservice-auth-accounts-graph
+ENV CONTAINER=microservice-account-graph-container
+ENV SOURCE=microservice-account-graph
 
 ENV APP_ROOT=/env/${CONTAINER}/dist
 ENV APP_HOME=${APP_ROOT}/node_modules/@nebulario/${SOURCE}
